@@ -1,4 +1,4 @@
-# Cérebro CRM: Mag Pizza — Unidade Icoaraci
+# Cérebro CRM: Mag Pizza — Unidade Duque
 
 ---
 
@@ -6,7 +6,7 @@
 
 - **Nome do Cliente:** Mag Pizza
 - **Segmento:** Delivery / Restaurante (Pizzaria)
-- **Unidade:** Icoaraci
+- **Unidade:** Duque
 - **Status da Operação:** 🟢 Ativa
 - **Última Atualização Geral:** **22/07/2026**
 
@@ -48,9 +48,27 @@
 
 ### 🎯 Desempenho por Campanha
 
+- **🟢 [N] Recuperação 2 - +91 dias com + de 4 compras** _(WhatsApp)_
+    
+    - **13/07 a 19/07/2026** → Receita: **R$ 232,00** | Conversões: **2** | Enviadas: **76** | Taxa: **2,63%**
+        
+    - **06/07 a 12/07/2026** → Receita: **R$ 290,90** | Conversões: **3** | Enviadas: **87** | Taxa: **3,45%**
+        
+    - **29/06 a 05/07/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **65** | Taxa: **0,00%**
+        
+    - **15/06 a 21/06/2026** → Receita: **R$ 117,00** | Conversões: **1** | Enviadas: **54** | Taxa: **1,85%**
+        
+    - **08/06 a 14/06/2026** → Receita: **R$ 88,00** | Conversões: **1** | Enviadas: **73** | Taxa: **1,37%**
+        
+    - **01/06 a 07/06/2026** → Receita: **R$ 76,00** | Conversões: **1** | Enviadas: **54** | Taxa: **1,85%**
+        
+    - **25/05 a 31/05/2026** → Receita: **R$ 668,00** | Conversões: **6** | Enviadas: **280** | Taxa: **2,14%**
+        
+    - **15/05 a 24/05/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **0** | Taxa: **0,00%**
+        
 - **🟢 [N] Fidelização - Ativos recentes** _(WhatsApp)_
     
-    - **13/07 a 19/07/2026** → Receita: **R$ 666,00** | Conversões: **7** | Enviadas: **85** | Taxa: **8,24%**
+    - **13/07 a 19/07/2026** → Receita: **R$ 489,00** | Conversões: **6** | Enviadas: **75** | Taxa: **8,00%**
         
     - **06/07 a 12/07/2026** → Receita: **R$ 982,80** | Conversões: **8** | Enviadas: **79** | Taxa: **10,13%**
         
@@ -66,45 +84,9 @@
         
     - **15/05 a 24/05/2026** → Receita: **R$ 154,90** | Conversões: **1** | Enviadas: **9** | Taxa: **11,11%**
         
-- **🟢 [N] Recuperação 1 - 31 a 90 dias sem pedir** _(WhatsApp)_
-    
-    - **13/07 a 19/07/2026** → Receita: **R$ 521,20** | Conversões: **6** | Enviadas: **76** | Taxa: **7,89%**
-        
-    - **06/07 a 12/07/2026** → Receita: **R$ 582,80** | Conversões: **5** | Enviadas: **82** | Taxa: **6,10%**
-        
-    - **29/06 a 05/07/2026** → Receita: **R$ 120,00** | Conversões: **1** | Enviadas: **91** | Taxa: **1,10%**
-        
-    - **15/06 a 21/06/2026** → Receita: **R$ 422,00** | Conversões: **4** | Enviadas: **85** | Taxa: **4,71%**
-        
-    - **08/06 a 14/06/2026** → Receita: **R$ 76,00** | Conversões: **1** | Enviadas: **111** | Taxa: **0,90%**
-        
-    - **01/06 a 07/06/2026** → Receita: **R$ 384,00** | Conversões: **4** | Enviadas: **64** | Taxa: **6,25%**
-        
-    - **25/05 a 31/05/2026** → Receita: **R$ 2.376,80** | Conversões: **22** | Enviadas: **579** | Taxa: **3,80%**
-        
-    - **15/05 a 24/05/2026** → Receita: **R$ 1.685,27** | Conversões: **15** | Enviadas: **560** | Taxa: **2,68%**
-        
-- **🟢 [N] Recompra Rápida - 4 a 29 dias** _(WhatsApp)_
-    
-    - **13/07 a 19/07/2026** → Receita: **R$ 250,00** | Conversões: **3** | Enviadas: **72** | Taxa: **4,17%**
-        
-    - **06/07 a 12/07/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **74** | Taxa: **0,00%**
-        
-    - **29/06 a 05/07/2026** → Receita: **R$ 97,00** | Conversões: **1** | Enviadas: **64** | Taxa: **1,56%**
-        
-    - **15/06 a 21/06/2026** → Receita: **R$ 141,90** | Conversões: **1** | Enviadas: **56** | Taxa: **1,79%**
-        
-    - **08/06 a 14/06/2026** → Receita: **R$ 286,00** | Conversões: **3** | Enviadas: **80** | Taxa: **3,75%**
-        
-    - **01/06 a 07/06/2026** → Receita: **R$ 156,00** | Conversões: **2** | Enviadas: **57** | Taxa: **3,51%**
-        
-    - **25/05 a 31/05/2026** → Receita: **R$ 1.608,90** | Conversões: **15** | Enviadas: **298** | Taxa: **5,03%**
-        
-    - **15/05 a 24/05/2026** → Receita: **R$ 1.351,10** | Conversões: **13** | Enviadas: **411** | Taxa: **3,16%**
-        
 - **🟢 [N] Rumo à Fidelização - 1ª compra** _(WhatsApp)_
     
-    - **13/07 a 19/07/2026** → Receita: **R$ 81,00** | Conversões: **1** | Enviadas: **76** | Taxa: **1,32%**
+    - **13/07 a 19/07/2026** → Receita: **R$ 71,00** | Conversões: **1** | Enviadas: **77** | Taxa: **1,30%**
         
     - **06/07 a 12/07/2026** → Receita: **R$ 77,00** | Conversões: **1** | Enviadas: **58** | Taxa: **1,72%**
         
@@ -120,23 +102,41 @@
         
     - **15/05 a 24/05/2026** → Receita: **R$ 523,00** | Conversões: **4** | Enviadas: **198** | Taxa: **2,02%**
         
-- **🟢 [N] Recuperação 2 - +91 dias com + de 4 compras** _(WhatsApp)_
+- **🟢 [N] Recompra Rápida - 4 a 29 dias** _(WhatsApp)_
     
-    - **13/07 a 19/07/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **76** | Taxa: **0,00%**
+    - **13/07 a 19/07/2026** → Receita: **R$ 105,00** | Conversões: **1** | Enviadas: **77** | Taxa: **1,30%**
         
-    - **06/07 a 12/07/2026** → Receita: **R$ 290,90** | Conversões: **3** | Enviadas: **87** | Taxa: **3,45%**
+    - **06/07 a 12/07/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **74** | Taxa: **0,00%**
         
-    - **29/06 a 05/07/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **65** | Taxa: **0,00%**
+    - **29/06 a 05/07/2026** → Receita: **R$ 97,00** | Conversões: **1** | Enviadas: **64** | Taxa: **1,56%**
         
-    - **15/06 a 21/06/2026** → Receita: **R$ 117,00** | Conversões: **1** | Enviadas: **54** | Taxa: **1,85%**
+    - **15/06 a 21/06/2026** → Receita: **R$ 141,90** | Conversões: **1** | Enviadas: **56** | Taxa: **1,79%**
         
-    - **08/06 a 14/06/2026** → Receita: **R$ 88,00** | Conversões: **1** | Enviadas: **73** | Taxa: **1,37%**
+    - **08/06 a 14/06/2026** → Receita: **R$ 286,00** | Conversões: **3** | Enviadas: **80** | Taxa: **3,75%**
         
-    - **01/06 a 07/06/2026** → Receita: **R$ 76,00** | Conversões: **1** | Enviadas: **54** | Taxa: **1,85%**
+    - **01/06 a 07/06/2026** → Receita: **R$ 156,00** | Conversões: **2** | Enviadas: **57** | Taxa: **3,51%**
         
-    - **25/05 a 31/05/2026** → Receita: **R$ 668,00** | Conversões: **6** | Enviadas: **280** | Taxa: **2,14%**
+    - **25/05 a 31/05/2026** → Receita: **R$ 1.608,90** | Conversões: **15** | Enviadas: **298** | Taxa: **5,03%**
         
-    - **15/05 a 24/05/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **0** | Taxa: **0,00%**
+    - **15/05 a 24/05/2026** → Receita: **R$ 1.351,10** | Conversões: **13** | Enviadas: **411** | Taxa: **3,16%**
+        
+- **🟢 [N] Recuperação 1 - 31 a 90 dias sem pedir** _(WhatsApp)_
+    
+    - **13/07 a 19/07/2026** → Receita: **R$ 139,48** | Conversões: **1** | Enviadas: **77** | Taxa: **1,30%**
+        
+    - **06/07 a 12/07/2026** → Receita: **R$ 582,80** | Conversões: **5** | Enviadas: **82** | Taxa: **6,10%**
+        
+    - **29/06 a 05/07/2026** → Receita: **R$ 120,00** | Conversões: **1** | Enviadas: **91** | Taxa: **1,10%**
+        
+    - **15/06 a 21/06/2026** → Receita: **R$ 422,00** | Conversões: **4** | Enviadas: **85** | Taxa: **4,71%**
+        
+    - **08/06 a 14/06/2026** → Receita: **R$ 76,00** | Conversões: **1** | Enviadas: **111** | Taxa: **0,90%**
+        
+    - **01/06 a 07/06/2026** → Receita: **R$ 384,00** | Conversões: **4** | Enviadas: **64** | Taxa: **6,25%**
+        
+    - **25/05 a 31/05/2026** → Receita: **R$ 2.376,80** | Conversões: **22** | Enviadas: **579** | Taxa: **3,80%**
+        
+    - **15/05 a 24/05/2026** → Receita: **R$ 1.685,27** | Conversões: **15** | Enviadas: **560** | Taxa: **2,68%**
         
 - **🔴 [N] Recuperação 2 - +121 dias com histórico** _(WhatsApp | Status: Pausada)_
     
@@ -153,15 +153,15 @@
 
 ### 22/07/2026
 
-- Campeões: **25** (0,10%)
+- Campeões: **7** (0,07%)
     
-- Fiéis: **373** (1,54%)
+- Fiéis: **121** (1,19%)
     
-- Promissores: **851** (3,51%)
+- Promissores: **466** (4,60%)
     
-- Em risco: **8.310** (34,25%)
+- Em risco: **4.587** (45,24%)
     
-- Perdidos: **14.706** (60,61%)
+- Perdidos: **4.958** (48,90%)
     
 
 ### 13/07/2026
@@ -198,17 +198,17 @@
 
 - **13/07 a 19/07/2026**
     
-    - Receita CRM: **R$ 1.518,20**
+    - Receita CRM: **R$ 1.036,48**
         
-    - Conversões (Pedidos): **17**
+    - Conversões (Pedidos): **11**
         
-    - Mensagens Enviadas: **385**
+    - Mensagens Enviadas: **382**
         
-    - Clientes Recuperados: **7**
+    - Clientes Recuperados: **4**
         
-    - Clientes Recorrentes: **10**
+    - Clientes Recorrentes: **7**
         
-    - Participação na Receita: **2,29%** (Total da Loja: **R$ 66.398,04**)
+    - Participação na Receita: **4,11%** (Total da Loja: **R$ 25.220,64**)
         
 - **06/07 a 12/07/2026**
     
@@ -315,13 +315,13 @@
 
 - **22/07/2026:** Atualização semanal da operação.
     
-    - **Desempenho Geral:** O CRM na unidade de Icoaraci alcançou **R$ 1.518,20** em faturamento através de **17 conversões** e **385 mensagens enviadas**. A ferramenta participou de **2,29%** do faturamento total da unidade (**R$ 66.398,04**), apresentando um leve crescimento de 0,18% na participação. O ticket médio ficou em **R$ 89,31** por conversão.
+    - **Desempenho Geral:** O CRM gerou **R$ 1.036,48** em faturamento através de **11 conversões** e **382 mensagens enviadas**. A participação da ferramenta nas vendas da unidade ficou em **4,11%** de um total de **R$ 25.220,64**. O ticket médio da semana situou-se em **R$ 94,22** por pedido.
         
-    - **Campanhas:** A campanha **Fidelização - Ativos recentes** manteve o posto de maior geradora de receita com **R$ 666,00**, **7 conversões** e excelente taxa de **8,24%**. A **Recuperação 1** teve forte destaque na reativação com **R$ 521,20** e **6 conversões** (**7,89%**). A campanha **Recompra Rápida** voltou a pontuar com **R$ 250,00** (**3 conversões**), enquanto **Rumo à Fidelização** gerou **R$ 81,00** (**1 conversão**). Apenas a **Recuperação 2 (+91 dias)** ficou zerada na semana.
+    - **Campanhas:** A campanha **Fidelização - Ativos recentes** seguiu como o pilar de vendas da operação, gerando **R$ 489,00**, **6 conversões** e **8,00%** de taxa de conversão. A **Recuperação 2 (+91 dias)** também apresentou contribuição relevante com **R$ 232,00** e **2 conversões**. As campanhas **Recompra Rápida**, **Recuperação 1** e **Rumo à Fidelização** geraram **1 conversão cada**.
         
-    - **Relacionamento:** Houve bom equilíbrio entre retenção e recuperação da base: os **10 clientes recorrentes** geraram **R$ 911,00**, enquanto os **7 clientes recuperados** somaram **R$ 607,20** ao faturamento.
+    - **Relacionamento:** A receita foi impulsionada majoritariamente pela retenção, com **7 clientes recorrentes** gerando **R$ 591,00**, enquanto **4 clientes recuperados** somaram **R$ 445,48** no período.
         
-    - **RFV:** A carteira da unidade Icoaraci mostra grande concentração em clientes sumidos, com **Perdidos** representando **60,61%** (14.706 clientes) e **Em risco** somando **34,25%** (8.310 clientes). Nas categorias ativas, registram-se **25 Campeões (0,10%)**, **373 Fiéis (1,54%)** e **851 Promissores (3,51%)**.
+    - **RFV:** A análise de carteira apontou um leve aumento nas categorias ativas/promissoras, com **Campeões** subindo para **7 (0,07%)**, **Fiéis** para **121 (1,19%)** e **Promissores** atingindo **466 (4,60%)**. As categorias **Em Risco (45,24%)** e **Perdidos (48,90%)** continuam concentrando a maior parte da base total de clientes.
         
 - **13/07/2026:** Atualização semanal da operação.
     
