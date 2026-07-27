@@ -7,7 +7,7 @@
 - **Nome do Cliente:** Léo Pizzas
 - **Segmento:** Delivery / Restaurante (Pizzaria)
 - **Status da Operação:** 🟢 Ativa
-- **Última Atualização Geral:** **21/07/2026**
+- **Última Atualização Geral:** **27/07/2026**
 
 ---
 
@@ -34,28 +34,10 @@
 
 ### 🎯 Desempenho por Campanha
 
-- **🟢 [N] Rumo à Fidelização - 1º pedido até 30 dias** _(WhatsApp)_
-    
-    - **13/07 a 19/07/2026** → Receita: **R$ 137,80** | Conversões: **2** | Enviadas: **50** | Taxa: **4,00%**
-        
-    - **05/07 a 12/07/2026** → Receita: **R$ 84,90** | Conversões: **1** | Enviadas: **49** | Taxa: **2,04%**
-        
-    - **29/06 a 05/07/2026** → Receita: **R$ 369,70** | Conversões: **3** | Enviadas: **46** | Taxa: **6,52%**
-        
-    - **24/06 a 30/06/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **0** | Taxa: **0,00%**
-        
-- **🟢 [N] Recuperação 2 - 1 pedido / 91+ dias sem pedir** _(WhatsApp)_
-    
-    - **13/07 a 19/07/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **49** | Taxa: **0,00%**
-        
-    - **05/07 a 12/07/2026** → Receita: **R$ 298,90** | Conversões: **1** | Enviadas: **48** | Taxa: **2,08%**
-        
-    - **29/06 a 05/07/2026** → Receita: **R$ 165,90** | Conversões: **2** | Enviadas: **47** | Taxa: **4,26%**
-        
-    - **24/06 a 30/06/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **47** | Taxa: **0,00%**
-        
 - **🟢 [N] Recuperação 1 - 30 a 90 dias sem pedir** _(WhatsApp)_
     
+    - **20/07 a 26/07/2026** → Receita: **R$ 818,40** | Conversões: **7** | Enviadas: **50** | Taxa: **14,00%**
+        
     - **13/07 a 19/07/2026** → Receita: **R$ 659,30** | Conversões: **6** | Enviadas: **50** | Taxa: **12,00%**
         
     - **05/07 a 12/07/2026** → Receita: **R$ 469,10** | Conversões: **4** | Enviadas: **48** | Taxa: **8,33%**
@@ -66,6 +48,8 @@
         
 - **🟢 [N] Fidelização - 1+ pedidos até 30 dias** _(WhatsApp)_
     
+    - **20/07 a 26/07/2026** → Receita: **R$ 531,60** | Conversões: **6** | Enviadas: **49** | Taxa: **12,24%**
+        
     - **13/07 a 19/07/2026** → Receita: **R$ 231,20** | Conversões: **3** | Enviadas: **50** | Taxa: **6,00%**
         
     - **05/07 a 12/07/2026** → Receita: **R$ 873,39** | Conversões: **10** | Enviadas: **47** | Taxa: **21,28%**
@@ -76,6 +60,8 @@
         
 - **🟢 [N] Recompra rápida - 4 a 29 dias sem pedir** _(WhatsApp)_
     
+    - **20/07 a 26/07/2026** → Receita: **R$ 474,60** | Conversões: **4** | Enviadas: **50** | Taxa: **8,00%**
+        
     - **13/07 a 19/07/2026** → Receita: **R$ 785,60** | Conversões: **6** | Enviadas: **50** | Taxa: **12,00%**
         
     - **05/07 a 12/07/2026** → Receita: **R$ 859,42** | Conversões: **9** | Enviadas: **53** | Taxa: **16,98%**
@@ -84,12 +70,49 @@
         
     - **24/06 a 30/06/2026** → Receita: **R$ 632,20** | Conversões: **7** | Enviadas: **57** | Taxa: **12,28%**
         
+- **🟢 [N] Rumo à Fidelização - 1º pedido até 30 dias** _(WhatsApp)_
+    
+    - **20/07 a 26/07/2026** → Receita: **R$ 69,00** | Conversões: **1** | Enviadas: **50** | Taxa: **2,00%**
+        
+    - **13/07 a 19/07/2026** → Receita: **R$ 137,80** | Conversões: **2** | Enviadas: **50** | Taxa: **4,00%**
+        
+    - **05/07 a 12/07/2026** → Receita: **R$ 84,90** | Conversões: **1** | Enviadas: **49** | Taxa: **2,04%**
+        
+    - **29/06 a 05/07/2026** → Receita: **R$ 369,70** | Conversões: **3** | Enviadas: **46** | Taxa: **6,52%**
+        
+    - **24/06 a 30/06/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **0** | Taxa: **0,00%**
+        
+- **🟢 [N] Recuperação 2 - 1 pedido / 91+ dias sem pedir** _(WhatsApp)_
+    
+    - **20/07 a 26/07/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **50** | Taxa: **0,00%**
+        
+    - **13/07 a 19/07/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **49** | Taxa: **0,00%**
+        
+    - **05/07 a 12/07/2026** → Receita: **R$ 298,90** | Conversões: **1** | Enviadas: **48** | Taxa: **2,08%**
+        
+    - **29/06 a 05/07/2026** → Receita: **R$ 165,90** | Conversões: **2** | Enviadas: **47** | Taxa: **4,26%**
+        
+    - **24/06 a 30/06/2026** → Receita: **R$ 0,00** | Conversões: **0** | Enviadas: **47** | Taxa: **0,00%**
+        
 
 ---
 
 # 📈 Métricas
 
 ## 👥 Análise RFV (Situação Atual)
+
+### 27/07/2026
+
+- Campeões: **38** (0,79%)
+    
+- Fiéis: **141** (2,92%)
+    
+- Promissores: **267** (5,52%)
+    
+- Em risco: **2.377** (49,17%)
+    
+- Perdidos: **2.011** (41,60%)
+    
 
 ### 21/07/2026
 
@@ -156,6 +179,20 @@
 
 ## 📈 Histórico de Indicadores
 
+- **20/07 a 26/07/2026**
+    
+    - Receita CRM: **R$ 1.893,60**
+        
+    - Conversões (Pedidos): **18**
+        
+    - Mensagens Enviadas: **249**
+        
+    - Clientes Recuperados: **8**
+        
+    - Clientes Recorrentes: **10**
+        
+    - Participação na Receita: **13,51%** (Total da Loja: **R$ 14.020,47**)
+        
 - **13/07 a 19/07/2026**
     
     - Receita CRM: **R$ 1.813,90**
@@ -217,6 +254,16 @@
 
 ## 📝 Notas de Evolução e Insights Práticos
 
+- **27/07/2026:** Quinta semana de operação.
+    
+    - **Desempenho Geral:** O CRM registrou um leve crescimento no faturamento gerado em relação à semana passada, alcançando **R$ 1.893,60** através de **18 conversões** e mantendo exatamente o mesmo volume de envios (**249 mensagens**). O ticket médio permaneceu alto, fixando-se em **R$ 105,20** por pedido. A participação sobre o faturamento total da loja se consolidou no patamar elevado de **13,51%**.
+        
+    - **Campanhas:** O grande destaque da semana foi a **Recuperação 1**, que liderou o faturamento com **R$ 818,40**, **7 conversões** e uma expressiva taxa de conversão de **14,00%**. A campanha **Fidelização** recuperou força e gerou **R$ 531,60** (**6 conversões** / **12,24%** de taxa), seguida pela **Recompra Rápida** com **R$ 474,60** (**4 conversões** / **8,00%**). A campanha **Rumo à Fidelização** gerou **1 conversão** (**R$ 69,00**), enquanto a **Recuperação 2** seguiu sem converter no período.
+        
+    - **Relacionamento:** A maior parcela dos ganhos veio de clientes ativos/recorrentes (**10 clientes recorrentes** gerando **R$ 1.002,20**), enquanto a frente de reativação somou **8 clientes recuperados** responsáveis por **R$ 891,40**, mantendo um excelente equilíbrio de origens.
+        
+    - **RFV:** A carteira qualificada apresentou evolução positiva contínua: a base de **Campeões** bateu um novo recorde da operação atingindo **38 clientes (0,79%)**, além do aumento de **Fiéis (141 | 2,92%)** e **Promissores (267 | 5,52%)**, com ligeira redução nos percentuais de contatos **Em risco** e **Perdidos**.
+        
 - **21/07/2026:** Quarta semana de operação.
     
     - **Desempenho Geral:** O CRM manteve um ritmo forte de vendas gerando **R$ 1.813,90** em receita com **17 conversões** e **249 mensagens enviadas**. O ticket médio atingiu **R$ 106,70** por pedido. A participação do CRM no faturamento total da loja ficou em **13,64%**.
@@ -225,17 +272,17 @@
         
     - **Relacionamento:** Houve ótimo equilíbrio entre retenção e recuperação: os **9 clientes recorrentes** geraram **R$ 1.016,80**, enquanto os **8 clientes recuperados** adicionaram **R$ 797,10** em faturamento.
         
-    - **RFV:** A base de **Campeões** atingiu seu maior nível desde o início (**30 clientes** | **0,63%**).
+    - **RFV:** A base de **Campeões** atingiu seu maior nível desde o início (**30 clientes | 0,63%**).
         
 - **12/07/2026:** Terceira semana de operação.
     
-    - **Desempenho Geral:** O CRM apresentou sua melhor semana desde o início da operação, alcançando **R$ 2.585,71** em receita, **25 conversões** e **245 mensagens enviadas**. O ticket médio foi de **R$ 103,43** por pedido e a participação no faturamento da loja chegou a **15,15%**, um crescimento de **5,86%** em relação à semana anterior.
+    - **Desempenho Geral:** O CRM apresentou sua melhor semana desde o início da operação, alcançando **R$ 2.585,71** em receita, **25 conversões** e **245 mensagens enviadas**. O ticket médio foi de **R$ 103,43** por pedido e a participação no faturamento da loja chegou a **15,15%**, um crescimento de 5,86% em relação à semana anterior.
         
     - **Campanhas:** A campanha **Fidelização - 1+ pedidos até 30 dias** foi o principal destaque da semana, gerando **R$ 873,39**, **10 conversões** e a maior taxa de conversão da operação (**21,28%**). A **Recompra Rápida** também apresentou excelente desempenho com **R$ 859,42**, **9 conversões** e **16,98%** de conversão, consolidando-se como outra grande responsável pelos resultados. A **Recuperação 1** evoluiu em relação à semana anterior, enquanto **Recuperação 2** e **Rumo à Fidelização** tiveram menor volume de conversões.
         
     - **Relacionamento:** Os **16 clientes recorrentes** geraram **R$ 1.544,90**, representando aproximadamente **59,75%** da receita total do CRM na semana. Os **9 clientes recuperados** responderam por **R$ 1.040,81**, mostrando excelente equilíbrio entre fidelização e recuperação da base.
         
-    - **RFV:** A qualidade da base apresentou evolução significativa. Os **Campeões** cresceram de **14 para 27**, os **Fiéis** aumentaram de **115 para 146** e os **Promissores** passaram de **173 para 256**. Ao mesmo tempo, houve redução tanto dos clientes **Em risco** quanto dos **Perdidos**, indicando que as estratégias de relacionamento estão fortalecendo a retenção dos clientes.
+    - **RFV:** A qualidade da base apresentou evolução significativa. Os **Campeões** cresceram de 14 para 27, os **Fiéis** aumentaram de 115 para 146 e os **Promissores** passaram de 173 para 256. Ao mesmo tempo, houve redução tanto dos clientes **Em risco** quanto dos **Perdidos**, indicando que as estratégias de relacionamento estão fortalecendo a retenção dos clientes.
         
     - **Perspectiva:** Após três semanas consecutivas de crescimento, a operação demonstra amadurecimento das automações. O excelente desempenho das campanhas de **Fidelização** e **Recompra Rápida** indica que a estratégia está conseguindo transformar clientes em recorrentes e aumentar a influência do CRM no faturamento da loja.
         
@@ -257,8 +304,8 @@
         
 - **02/07/2026:** Encerramento da primeira semana de operação do CRM.
     
-    - **Desempenho Geral:** Mesmo com apenas **7 dias de operação**, o CRM gerou **R$ 1.036,10**, realizou **12 conversões** e representou **6,40%** de todo o faturamento da loja.
+    - **Desempenho Geral:** Mesmo com apenas 7 dias de operação, o CRM gerou **R$ 1.036,10**, realizou **12 conversões** e representou **6,40%** de todo o faturamento da loja.
         
-    - **Campanhas:** A campanha **Recompra Rápida** foi responsável por **R$ 632,20**, representando mais de **60%** da receita total do CRM no período. A **Recuperação 1** também apresentou bom desempenho, enquanto **Recuperação 2** e **Rumo à Fidelização** ainda não geraram conversões.
+    - **Campanhas:** A campanha **Recompra Rápida** foi responsável por **R$ 632,20**, representando mais de 60% da receita total do CRM no período. A **Recuperação 1** também apresentou bom desempenho, enquanto **Recuperação 2** e **Rumo à Fidelização** ainda não geraram conversões.
         
-    - **Retenção:** A taxa de recompra da **1ª para a 2ª compra (35,28%)** é razoável para um início de operação, porém ainda representa a principal oportunidade de crescimento da base recorrente. Vale acompanhar a evolução dessa métrica nas próximas atualizações.
+    - **Retenção:** A taxa de recompra da 1ª para a 2ª compra (**35,28%**) é razoável para um início de operação, porém ainda representa a principal oportunidade de crescimento da base recorrente. Vale acompanhar a evolução dessa métrica nas próximas atualizações.
